@@ -13,6 +13,7 @@ gem 'paperclip', '~> 4.3', '>= 4.3.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'font-awesome-sass', '~> 4.5'
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'searchkick', '~> 1.1', '>= 1.1.2'
 
 group :development, :test do
   gem 'byebug'
